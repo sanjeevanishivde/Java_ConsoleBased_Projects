@@ -1,0 +1,12 @@
+//Console base application
+
+createStatement()  -> when our query does not have any parameters
+
+PreparedStatemant() -> when our query have parameters (?)
+
+
+-------------------------------------------------------------
+
+executeQuery() -> fetch data from database (Read)
+
+executeUpdate() -> insert any data in database  (Create, Update, Delete)
