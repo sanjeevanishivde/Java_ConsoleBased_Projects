@@ -8,6 +8,7 @@ Java
 JDBC (Java Database Connectivity)
 MySQL / PostgreSQL / Any other database you're using
 SQL
+
 📂 Features
 Establishing a JDBC connection with a database.
 Implementing CRUD operations (Insert, Read, Update, Delete).
